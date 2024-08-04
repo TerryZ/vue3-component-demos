@@ -1,0 +1,35 @@
+{
+  "name": "vue3-component-demos",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "http-data-request": "^1.0.0",
+    "v-dialogs": "^3.0.2",
+    "v-dropdown": "^3.0.0",
+    "v-page": "^3.1.0",
+    "v-region": "^3.1.0",
+    "v-selectpage": "^3.0.1",
+    "vue-router": "^4.3.2",
+    "vue": "^3.4.31"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.8.0",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "@vitejs/plugin-vue-jsx": "^4.0.0",
+    "@vue/eslint-config-standard": "^8.0.1",
+    "@vue/eslint-config-prettier": "^9.0.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-vue": "^9.26.0",
+    "sass": "^1.77.6",
+    "vite": "^5.3.4",
+    "prettier": "^3.3.0",
+    "typescript": "^5.5.4"
+  }
+}
